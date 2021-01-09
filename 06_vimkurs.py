@@ -6,6 +6,7 @@ def fizzbuzz(i):
         answer += "Buzz"
     return answer or str(i)
 
+print([fizzbuzz(i) for i in range(1,100)])
 
 
 
