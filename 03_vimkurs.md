@@ -7,6 +7,7 @@
 - Text editor(Tekstredigerer)
 - Ikke en IDE(PyCharm, Intellij, Eclipse)
 - Har forskjellige moduser og veldig tastaturrettet
+	- Keyboard endrer seg avhenging av modus
 
 
 
