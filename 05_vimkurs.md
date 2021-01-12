@@ -14,7 +14,7 @@
     - :
     - Kommandoer, f.eks komme seg ut av Vim!
 * Visual mode
-    - v
+    - v (eller V)
     - For å markere ting
 
 

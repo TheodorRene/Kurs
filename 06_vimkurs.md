@@ -17,7 +17,7 @@
 - t - unTil
 - i - Inside
 - a - Around
-- f - gå til karakter i linja
+- f - Find - gå til karakter i linja
 
 # Ellers kjekt
 - u - Undo
@@ -28,7 +28,7 @@
 - O - insert mode under linjen du er på
 
 # "handlingsbevegelser"
-- d w "delete word"
+- d w "delete word "
 - d a w "delete around/after word"
 - d i w "delete inside word"
 - d i ( "delete inside parentheses"

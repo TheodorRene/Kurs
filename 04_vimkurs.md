@@ -14,6 +14,7 @@
 - Muligheten til å lage en editor som passer akkurat deg (Kraftig)
 - Fjerner litt av magien(Går i hånd med å lære seg terminalen)
 
+- Det er en kurve, men den er verdt det for mange
 
 
 
