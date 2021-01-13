@@ -8,7 +8,11 @@ def fizzbuzz(num):
 
 print([fizzbuzz(i) for i in range(1, 100)])
 
-#[[1,2,3],[3,4,5]]
+print("hello world")
+
+# [[1,2,3],[3,4,5]]
+# [1,2,3,3,4,5]
+# 3
 # Refakturer if setningen og funksjonsbruken
 def median_of_multiple_arrays(l):
     flat_list = []
