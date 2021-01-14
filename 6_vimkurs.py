@@ -8,6 +8,7 @@ def fizzbuzz(num):
 
 print([fizzbuzz(i) for i in range(1, 100)])
 
+
 print("hello world")
 
 # [[1,2,3],[3,4,5]]
@@ -25,7 +26,7 @@ def median_of_multiple_arrays(l):
     median_lower = flat_list[int(length/2)-1]
     median_higher = flat_list[int((length/2))]
     avg_median = (median_lower + median_higher)/2
-    if (len(flat_list)%2==0):
+    if len(flat_list)%2==0: #even
         return avg_median
     else: #odd
         return flat_list[len(flat_list)//2]

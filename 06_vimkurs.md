@@ -5,11 +5,11 @@
 # Bevegelser
 - h,j,k,l ← ↓ ↑ →
 - w(words), b(backwards words), e(end of words)
-- the lazy fox jumped over the quick brown dog
+- the lazy fox jumped over the quick brown dog 
 - 0(Start), $(End of line)
 
 # Operatorer med bevegelse
-- d - Delete
+- d - Delete 
 - c - Change (Slett og gå inn i Insert mode)
 - y - Yank(Copy)
 
@@ -52,6 +52,7 @@
 * Hvis du gjorde operasjoner i en if-setning, prøv å flytt det ut i en variabel
 	- hint "Change unTil Colon"
 	- hint "Change In Parenthes"
+	- Prøv å Paste
 * Til slutt vil jeg at endre så det ikke er 3 og 5, men 7 og 8 
 	- Bruk "r" så slipper du å hoppe inn i insert mode for en så enkel endring
 * Skru på relativenumber ":set relativenumber" og kopier hele funksjonen i en operasjon, kanskje paste den
